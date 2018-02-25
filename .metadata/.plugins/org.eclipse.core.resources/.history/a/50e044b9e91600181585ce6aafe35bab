@@ -1,0 +1,5 @@
+package com.dtproject.dao;
+
+public class UserDao {
+
+}

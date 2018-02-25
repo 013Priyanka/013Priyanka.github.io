@@ -1,0 +1,15 @@
+package com.dtproject.service.serviceImpl;
+
+import org.springframework.stereotype.Service;
+
+import com.dtproject.service.UserService;
+@Service
+public class UserServiceImpl implements UserService{
+
+	@Override
+	public void saveUser() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

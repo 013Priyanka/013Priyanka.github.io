@@ -1,0 +1,7 @@
+package com.dtproject.dao.daoImpl;
+
+import com.dtproject.dao.ShippingDao;
+
+public class ShippingDaoImpl implements ShippingDao{
+
+}

@@ -1,0 +1,5 @@
+package com.dtproject.model;
+
+public class Payment {
+
+}

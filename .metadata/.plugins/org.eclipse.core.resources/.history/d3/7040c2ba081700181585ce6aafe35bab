@@ -1,0 +1,16 @@
+    <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+    <%@ include file = "templates/header.jsp" %>
+    
+<div id="menu2" class="tab-pane fade">
+      <div class="container">
+  <form:form action="updateSupplier" modelAttribute="sup" method="post">
+    <div class="form-group">
+      <label for="email">Supplier Name:</label>
+      <form:input path="sName" type="text" class="form-control" id="email" placeholder="supplier name"/>
+    </div>
+    
+    <button type="submit" class="btn btn-default">Submit</button>
+  </form:form>
+</div>
+</div>
+<%@ include file = "templates/footer.jsp" %>     

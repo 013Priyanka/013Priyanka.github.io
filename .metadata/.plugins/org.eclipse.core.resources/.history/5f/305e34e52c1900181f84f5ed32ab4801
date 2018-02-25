@@ -1,0 +1,17 @@
+package com.dtproject.dao.daoImpl;
+
+import org.springframework.stereotype.Repository;
+
+import com.dtproject.dao.ShippingDao;
+@Repository
+public class ShippingDaoImpl implements ShippingDao
+{
+
+	@Override
+	public void getAddressByUserName(String getuName) 
+	{
+		
+		
+	}
+
+}
