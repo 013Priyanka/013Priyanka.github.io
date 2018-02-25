@@ -1,4 +1,9 @@
-target/
+/target/
+/.settings/
+/java/
+/.classpath
+/.project
+src/main
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
