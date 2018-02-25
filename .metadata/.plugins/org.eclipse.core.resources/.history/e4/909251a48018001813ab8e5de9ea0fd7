@@ -1,5 +1,0 @@
-package com.dtproject.service;
-
-public interface CartItemService {
-
-}

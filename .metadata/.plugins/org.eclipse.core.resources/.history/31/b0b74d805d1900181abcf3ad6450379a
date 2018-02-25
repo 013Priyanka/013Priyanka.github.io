@@ -1,9 +1,0 @@
-package com.dtproject.dao.daoImpl;
-
-import org.springframework.stereotype.Repository;
-
-import com.dtproject.dao.CartDao;
-@Repository
-public class CartDaoImpl implements CartDao{
-
-}

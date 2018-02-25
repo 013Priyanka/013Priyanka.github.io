@@ -1,9 +1,0 @@
-package com.dtproject.service;
-
-import com.dtproject.model.Cart;
-
-public interface CartService {
-
-	Cart findCartByCartId(int cartId);
-
-}

@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;dtpro/src/main/webapp/WEB-INF/views/home.jsp&apos; to &apos;index.jsp&apos;" description="Rename resource &apos;home.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/home.jsp" name="index.jsp" stamp="1519558950480" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;dtpro/src/main/webapp/WEB-INF/views/index.jsp&apos; to &apos;home.jsp&apos;" description="Rename resource &apos;index.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/index.jsp" name="home.jsp" stamp="1519559142078" updateReferences="true"/>
-</session>

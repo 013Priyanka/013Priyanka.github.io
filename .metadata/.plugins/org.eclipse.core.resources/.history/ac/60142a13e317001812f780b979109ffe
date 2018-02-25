@@ -1,7 +1,0 @@
-package com.dtproject.service.serviceImpl;
-
-import com.dtproject.service.CartItemService;
-
-public class CartItemServiceImpl implements CartItemService{
-
-}

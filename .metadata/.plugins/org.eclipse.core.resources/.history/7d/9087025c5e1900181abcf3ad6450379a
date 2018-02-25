@@ -1,9 +1,0 @@
-package com.dtproject.dao;
-
-import com.dtproject.model.Cart;
-
-public interface CartDao {
-
-	Cart findCartByCartId(int cartId);
-
-}

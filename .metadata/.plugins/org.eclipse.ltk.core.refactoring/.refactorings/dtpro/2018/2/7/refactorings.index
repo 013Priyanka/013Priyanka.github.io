@@ -1,4 +1,0 @@
-1518847479152	Move 'Resources' to 'WEB-INF'
-1518865283940	Move 'CategoryServiceImpl.java' to 'serviceImpl'
-1518865286973	Move 'ProductServiceImpl.java' to 'serviceImpl'
-1518865290502	Move 'SupplierServiceImpl.java' to 'serviceImpl'

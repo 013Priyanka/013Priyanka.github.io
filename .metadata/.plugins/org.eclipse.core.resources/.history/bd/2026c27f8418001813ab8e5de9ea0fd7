@@ -1,7 +1,0 @@
-package com.dtproject.dao.daoImpl;
-
-import com.dtproject.dao.CartDao;
-
-public class CartDaoImpl implements CartDao{
-
-}

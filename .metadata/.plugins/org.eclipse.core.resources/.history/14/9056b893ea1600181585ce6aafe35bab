@@ -1,7 +1,0 @@
-package com.dtproject.dao.daoImpl;
-
-import com.dtproject.dao.UserDao;
-
-public class UserDaoImpl implements UserDao{
-
-}
