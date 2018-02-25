@@ -1,4 +1,14 @@
-/target/
+/target/classes/com/dtproject/controller/
+/src/main/webapp/WEB-INF/
+/src/main/webapp/WEB-INF/views/
+/src/main/webapp/WEB-INF/Resources/images/
+/src/main/webapp/WEB-INF/Resources/userPic/
+/src/main/java/com/dtproject/dao/
+/src/main/java/com/dtproject/dao/daoImpl/
+/src/main/java/com/dtproject/controller/
+/src/main/java/com/dtproject/model/
+/src/main/java/com/dtproject/service/
+/src/main/java/com/dtproject/service/serviceImpl/
 /.settings/
 /java/
 /.classpath
